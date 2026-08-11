@@ -1,0 +1,6 @@
+{
+  "name": "StockSage X",
+  "description": "Production-grade AI Market Intelligence Platform featuring real-time quotes, technical charts, AI copilot, probability forecasts, stock screener, portfolio intelligence, news analysis, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
